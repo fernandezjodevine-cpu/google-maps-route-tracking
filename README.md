@@ -20,4 +20,4 @@ This project demonstrates how to use the Google Maps API to display a map, detec
 ## Author
 
 Jodevine Fernandez
-Class: (Your Class Name)
+Class: Cluster F
